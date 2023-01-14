@@ -1,0 +1,16 @@
+code: 131091
+gijiroku: data/gijiroku.csv
+giin: data/giin.csv
+iinkai: data/iinkai.csv
+years: data/years.csv
+jogai: data/exclusion.csv
+font: static/ShipporiMinchoB1-ExtraBold.ttf
+target:
+  place: 品川区
+  start: 2001年5月
+  end: 2022年10月
+  url: https://kaigiroku.city.shinagawa.tokyo.jp/index.php/
+developer:
+  name: 岡村健一
+  contact: https://twitter.com/Okamura_Kenichi
+  img: static/developer.png
